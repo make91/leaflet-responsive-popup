@@ -94,6 +94,9 @@ map.on('popupclose',function(e) {
 });
 ```
 
+### positionPreference
+
+Allows setting preferred position of popup with an array containing any of 'top', 'left', 'bottom', 'right'.
 
 ## Notes
 Needs at least Leaflet 1.0
